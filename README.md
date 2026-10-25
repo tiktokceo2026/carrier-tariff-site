@@ -8,10 +8,10 @@
 
 ## 在线访问
 
-- 中国移动：<https://amxysw.github.io/carrier-tariff-site/>
-- 中国联通：<https://amxysw.github.io/carrier-tariff-site/unicom/>
-- 中国电信：<https://amxysw.github.io/carrier-tariff-site/telecom/>
-- 中国广电：<https://amxysw.github.io/carrier-tariff-site/gb/>
+- 中国移动：<https://tiktokceo2026.github.io/carrier-tariff-site/>
+- 中国联通：<https://tiktokceo2026.github.io/carrier-tariff-site/unicom/>
+- 中国电信：<https://tiktokceo2026.github.io/carrier-tariff-site/telecom/>
+- 中国广电：<https://tiktokceo2026.github.io/carrier-tariff-site/gb/>
 
 ## 数据说明
 
